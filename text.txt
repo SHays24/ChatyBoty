@@ -1,0 +1,2 @@
+************* Module test_files.bad_code
+test_files/bad_code.py:1: error (E0001, syntax-error, ) EOL while scanning string literal (<unknown>, line 1)
